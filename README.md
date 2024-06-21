@@ -38,6 +38,29 @@ Criar um site que incorpore os tópicos de CSS abordados na semana 02. O site de
   - Background
   - Flexbox
   - Princípios de responsividade
+    
+## A estrutura de arquivos e diretórios
+
+  ### Diretório `img`
+
+Contém todas as imagens utilizadas no projeto, incluindo:
+- `galeria 3.png`, `galeria.png`, `galeryhome.png`, `image-4.png`, `image-5.png`, `image-6.png`, `image-7.png`: Imagens da galeria de arte.
+- `logo.png`: Logo da empresa.
+
+### Diretório `styles`
+
+Contém os arquivos CSS usados para estilizar as diferentes páginas do site:
+- `contato.css`: Estilos para a página de contato.
+- `imagem.css`: Estilos para a página de imagens.
+- `index.css`: Estilos para a página principal.
+- `sobre.css`: Estilos para a página sobre.
+
+### Arquivos HTML
+
+- `contato.html`: Página de contato do site.
+- `imagem.html`: Página que exibe as imagens da galeria.
+- `index.html`: Página inicial do site.
+- `sobre.html`: Página sobre a empresa.
 
 ## Tecnologias Utilizadas 🛠️
 
