@@ -62,6 +62,19 @@ Contém os arquivos CSS usados para estilizar as diferentes páginas do site:
 - `index.html`: Página inicial do site.
 - `sobre.html`: Página sobre a empresa.
 
+## Versões Publicadas
+
+Você pode visualizar o projeto online através dos seguintes links:
+
+- [GitHub Pages](https://zirlanefiuza.github.io/soulcode-project/)
+- [Vercel](https://soulcode-project.vercel.app/)
+
+## Colaboradores 👥
+
+- [Zirlane Fiuza](https://github.com/Zirlanefiuza/)
+- [Alana Silva](https://github.com/alanasilva88)
+- [Laís Ferreira](https://github.com/laisfrr)
+
 ## Tecnologias Utilizadas 🛠️
 
 - HTML5
@@ -80,14 +93,6 @@ Contém os arquivos CSS usados para estilizar as diferentes páginas do site:
 ## Layout Responsivo 📱💻
 
 O projeto foi desenvolvido com layout responsivo para diferentes dispositivos, incluindo desktops, laptops, tablets e smartphones.
-
-## Colaboradores 👥
-
-Nós estamos desenvolvendo este projeto:
-
-- [Zirlane Fiuza](https://github.com/Zirlanefiuza/)
-- [Alana Silva](https://github.com/alanasilva88)
-- [Laís Ferreira](https://github.com/laisfrr)
 
 ## Como Contribuir 🤝
 
